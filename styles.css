@@ -1,0 +1,48 @@
+body {
+    color: rgb(252, 252, 252);
+    background: rgb(161, 88, 192);
+    margin: 0px;
+    font-family: "Baskervville SC", serif;
+    border-bottom: 200px;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(249, 246, 246);
+    padding: 20px;
+    font-size: 15px;
+    color: rgb(6, 6, 6);
+}
+
+.principal {
+	background: rgb(216, 157, 246);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+
+.chamada-texto{
+    font-family: "Baskervville SC", serif;
+
+
+}
+
+
+.categoria-vídeos{
+display: flex;
+overflow-x: auto;
+gap: 10px;
+
+}
+
+.categoria-vídeos img {
+height: 200px;
+
+}
